@@ -1,4 +1,4 @@
-#Project KALAM — Atmospheric Nowcasting & Visualization
+Project KALAM — Atmospheric Nowcasting & Visualization
 National Runner-up (2nd Place), ISRO Bhartiya Antariksh Hackathon 2025. Built by Team DOMinators.
 
 Project Kalam is our hackathon-winning system for near-term atmospheric forecasting and visualization. It combines a Python-based inference pipeline, a Node.js/Express API with WebSocket live logs, Cloudflare R2 storage, MongoDB persistence, and a modern React + Vite + Tailwind UI for map-based exploration, animation, and model report views.
